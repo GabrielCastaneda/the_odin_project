@@ -1,2 +1,2 @@
 # the_odin_project
-The Odin Project course work
+My Odin Project course work projects.
